@@ -1,0 +1,5 @@
+<svg viewBox="0 0 360.9990234375 89.2431640625" width="360.9990234375" height="89.2431640625" xmlns="http://www.w3.org/2000/svg">
+<rect id="bg" fill="#2E3440" width="360.9990234375" height="89.2431640625" rx="4"></rect><g id="tokens" transform="translate(49.79296875, 35.697265625)"><text font-family="-apple-system" font-size="14" y="17.8486328125">
+<tspan x="0" fill="#D8DEE9">console</tspan><tspan x="87.1376953125" fill="#ECEFF4">.</tspan><tspan x="99.5859375" fill="#88C0D0">log</tspan><tspan x="136.9306640625" fill="#D8DEE9" opacity="1">(</tspan><tspan x="149.37890625" fill="#ECEFF4">&#39;</tspan><tspan x="161.8271484375" fill="#A3BE8C">shiki</tspan><tspan x="224.068359375" fill="#ECEFF4">&#39;</tspan><tspan x="236.5166015625" fill="#D8DEE9" opacity="1">)</tspan><tspan x="248.96484375" fill="#81A1C1">;</tspan>
+</text></g>
+</svg>
